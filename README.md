@@ -1,5 +1,5 @@
 # elm-preybird
-An [ELM](http://elm-lang.org/) language application
+An [ELM](http://elm-lang.org/) language application.
 
 ## Getting started
 
